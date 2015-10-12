@@ -1,4 +1,4 @@
-# multiBrightnessLED
+# Multi-Brightness LED
 Multi-Brightness LED Class Materials
 
 During my work at Essmart, I was asked to teach a class on electronics on the 19th of March 2014.
